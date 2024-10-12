@@ -1,15 +1,3 @@
-# a = int(input ("Enter your fdigit : "))
-# b = int(input ("Enter your ldigit : "))
-
-# print( ' add   is = ' , a , "+",   b , ' = ' , a+b)
-# print( ' sub   is = ' , a , "-",   b , ' = ' , a-b)
-# print( ' mul   is = ' , a , "*"  , b , ' = ' , a*b)
-# print( ' div   is = ' , a , "/"  , b , ' = ' , a/b)
-# print( ' mod   is = ' , a , "%"  , b , ' = ' , a%b)
-
-# print('foold  is = ' , a , "//"  , b , " = " , a//b)
-# print('expon  is = ' , a , "**"  , b , " = " , a**b)
-
 a = int(input("Enter your first digit: "))
 b = int(input("Enter your second digit: "))
 
