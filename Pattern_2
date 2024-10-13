@@ -1,0 +1,17 @@
+PRINT THIS PETTERN
+""" 
+*
+* * 
+* * *
+* * * *
+* * * * *
+"""
+for i in range(0,5):
+    for j in range(0,5):
+        if i >= j:
+            print('*', end=" ")
+    print('')
+
+# DRAW PATTERNS USING SINGLE LOOP
+for i in range(1,6):
+    print('* ' * i)
