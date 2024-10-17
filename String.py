@@ -72,6 +72,7 @@ print(s1[-1:-len(s1)-1:-1])
 print(s1[-1::-1])
 print(s1[-1::-2])
 
+# MEMBERSHIP OPERATORS
 print('H' in s1)
 print('Hello' in s1)
 print('h' in s1)
