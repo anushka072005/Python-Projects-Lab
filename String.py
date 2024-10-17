@@ -50,3 +50,29 @@ for i in range(len(a)-1,-1,-1):
 
 for i in range(0,len(a),2):
        print(a[i])
+       
+# SLICING
+s1 = 'Hello World'
+
+print(s1[0:len(s1):1])
+print(s1[:])
+print(s1[:len(s1):1])
+print(s1[::1])
+print(s1[::])
+print(s1[:len(s1)])
+print(s1[0:])
+
+print(s1[3::])
+print(s1[6::])
+print(s1[6:8:])
+print(s1[::2])
+
+print(s1[::-1]) # print reverse string
+print(s1[-1:-len(s1)-1:-1])
+print(s1[-1::-1])
+print(s1[-1::-2])
+
+print('H' in s1)
+print('Hello' in s1)
+print('h' in s1)
+print('h' not in s1)
