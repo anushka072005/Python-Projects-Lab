@@ -77,3 +77,13 @@ print('H' in s1)
 print('Hello' in s1)
 print('h' in s1)
 print('h' not in s1)
+
+# STRING METHODS
+string = 'Hello, how are you'
+s = type(string)
+print(s)
+
+s = dir(string) # using dir func you can know how many methods are present for this class
+print(s)
+
+print(help(s.pop)) # Using the help function you can know what does this method do?
