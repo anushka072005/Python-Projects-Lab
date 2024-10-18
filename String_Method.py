@@ -40,3 +40,45 @@ print(string.rindex('o',15))
 print(string.rindex('o',0,15))
 # print(string.rindex('k')) # Error
 
+# count() METHOD (used to total count occerence of char or sub)
+print(string.count('o'))
+print(string.count('dhor')) # return 0
+
+
+"""    THESE METHOD GENRATING NEW STRING NOT MODIFY ORIGINAL STRING (BELLOW)  """
+# ljust() METHOD (it is used to give space from LEFT side)
+s = 'python'
+n = s.ljust(10,'-')
+print(n)
+n = s.ljust(15,'.')
+print(n)
+
+# rjust() METHOD (it is used to give space from RIGHT side)
+n = s.rjust(10,'-')
+print(n)
+
+# center() METHOD (used to come center)
+n = s.center(20,'-')
+print(n)
+
+"""   strip() method remove space along with character    """
+# lstrip() METHOD (lstrip()used to remove only leading spaces)
+new ="   python   "
+n = new.lstrip()
+# print(f"'{n}'")
+print(n)
+
+# rstrip() METHOD (rstrip()used to remove only trailing spaces)
+n = new.rstrip()
+print(n)
+
+# strip() METHOD (strip() used to remove leading and trailing spaces)
+n = new.strip()
+print(n)
+
+s1 = '.... ... +++ kkkhajoor'
+print(s1.lstrip())
+print(s1.lstrip(".")) #it will remove only starting dots because sfter this sapce there which is diff
+print(s1.lstrip('. +')) #it can remove multiple char
+print(s1.strip('. +k'))
+
