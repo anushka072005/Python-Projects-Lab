@@ -151,3 +151,33 @@ print(string.istitle())
 print(string2.istitle())
 print(swap.istitle())
 print(b2.istitle())
+
+
+# isalnum() METHOD (not consider space or any special char)
+d = 'hello 5435'
+print(d.isalnum())
+print(b.isalnum())
+
+# isalpha() METHOD (not consider space any char only alpha)
+print(d)
+print(string.isalpha())
+print(b.isalpha())
+
+# isspace() METHOD (consider only space even not empty str)
+f = '   '
+print(f.isspace())
+f = ''
+print(f.isspace())
+print(b.isspace())
+
+# isascii() METHOD (ASCII char consider like abc #@ etc)
+print(string.isascii())
+v = '`@ 4 - + = etc'
+print(v.isascii())
+
+# UNICODE 
+uni_code = '\u03b1\u03b2\u03b3'
+print(uni_code)
+print(uni_code.isalpha())
+print(uni_code.isalnum())
+print(uni_code.isascii())
