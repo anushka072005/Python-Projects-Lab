@@ -7,11 +7,11 @@ print(s)
 s = dir(string) # using dir func you can know how many methods present for this class
 print(s)
 
-print(help(s.clear)) # using help function you can know what does this methods do?
+print(help(s.clear)) # Using help function you can know what does this methods do?
 
 
 # find() METHOD
-# find method is used to find occerence of sub string in original string(from left to right).
+# find method is used to find occurrence of sub string in the original string(from left to right).
 print(string.find('o'))
 print(string.find('o',4))
 print(string.find('o',5))
