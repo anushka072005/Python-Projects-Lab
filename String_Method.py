@@ -46,14 +46,14 @@ print(string.count('dhor')) # return 0
 
 
 """    THESE METHOD GENRATING NEW STRING NOT MODIFY ORIGINAL STRING (BELLOW)  """
-# ljust() METHOD (it is used to give space from LEFT side)
+# ljust() METHOD (it is used to give space from the LEFT side)
 s = 'python'
 n = s.ljust(10,'-')
 print(n)
 n = s.ljust(15,'.')
 print(n)
 
-# rjust() METHOD (it is used to give space from RIGHT side)
+# rjust() METHOD (it is used to give space from the RIGHT side)
 n = s.rjust(10,'-')
 print(n)
 
