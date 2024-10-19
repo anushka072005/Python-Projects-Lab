@@ -26,7 +26,7 @@ print(string.rfind('o',0,15))
 print(string.rfind('k'))
 
 # index() METHOD
-#(it is similier to find() method but minor diff is that when any str not present then error occer instence of -1)
+#(it is similier to find() method but the minor diff is that when any str is not present then error occer instence of -1)
 print(string.index('o'))
 print(string.index('o',4))
 print(string.index('o',5))
