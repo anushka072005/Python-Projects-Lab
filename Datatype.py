@@ -1,5 +1,5 @@
 # Numaric Data type
-# INT 
+# INT
 a = 32
 print(type(a))
 print(a)
