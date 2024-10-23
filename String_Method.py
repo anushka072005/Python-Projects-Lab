@@ -181,3 +181,11 @@ print(uni_code)
 print(uni_code.isalpha())
 print(uni_code.isalnum())
 print(uni_code.isascii())
+
+# isidentifire() METHOD (it check if literls or user_input follow varialbe rules then return in bool)
+x = 'length_01'
+y = '07_lenght'
+z = 'length@_01'
+print(x.isidentifier())
+print(y.isidentifier())
+print(z.isidentifier())
