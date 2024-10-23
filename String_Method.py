@@ -240,3 +240,12 @@ print(email.removeprefix('patkar'))
 # removesuffix() METHOD (It will remove the substring (last))
 print(email.removesuffix('.com'))
 print(email.removesuffix('@gmail'))
+
+# partition() METHOD (It will divide s.partition(‘is‘) It will check where is ‘is’ then it will form a tuple)
+print(s.partition('is'))
+print(s.partition('s'))
+
+# rpartition() METHOD (It will perform from the right hand side)
+print(s.rpartition('s'))
+print(s.rpartition('y'))
+print(s.rpartition('e'))
