@@ -200,3 +200,20 @@ print(u)
 print(u.isprintable())
 print(u.isidentifier())
 
+# isdecimal() isnumaric() isdigit() METHODS (all these works upon numaric data)
+print("9038091489194718947")
+num_str1 = '123'
+print(num_str1.isdecimal())
+print(num_str1.isdigit())
+print(num_str1.isnumeric())
+
+num_str2 = '8\u00b2'  
+print(num_str2)  #('8^2') this is not valid so we write in unicode
+print(num_str2.isdecimal())
+print(num_str2.isdigit())
+print(num_str2.isnumeric())
+
+num_str3 = '5\u00bd'   #('1/2')
+print(num_str3.isdecimal())
+print(num_str3.isdigit())
+print(num_str3.isnumeric())
