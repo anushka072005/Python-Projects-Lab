@@ -217,3 +217,26 @@ num_str3 = '5\u00bd'   #('1/2')
 print(num_str3.isdecimal())
 print(num_str3.isdigit())
 print(num_str3.isnumeric())
+
+# startswith(), endswith(), partition(), rpartition(), removesuffix(), removeprefix()
+s = 'python is very easy'
+# startswith() METHOD (It will say whether a given string is starts with)
+print(s.startswith('python'))
+print(s.startswith('is',7))
+print(s.startswith('java'))
+
+# endswith() METHOD (It will say if the string ends with ( certain string ) then it will return True) 
+print(s.endswith('easy'))
+print(s.endswith('java'))
+print(s.endswith('is',0,9))
+
+email = 'anushkapatkar497@gmail.com'
+print(email.endswith('@gmail.com'))
+
+# removeprefix() METHOD (It will remove the substring (from first only ))
+print(email.removeprefix('anushka'))
+print(email.removeprefix('patkar'))
+
+# removesuffix() METHOD (It will remove the substring (last))
+print(email.removesuffix('.com'))
+print(email.removesuffix('@gmail'))
