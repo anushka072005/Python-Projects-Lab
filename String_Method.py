@@ -189,3 +189,14 @@ z = 'length@_01'
 print(x.isidentifier())
 print(y.isidentifier())
 print(z.isidentifier())
+
+# isprintable() METHOD (it check if literls or user_input can be printable instead of escape(\t, \r, \n) char then return in bool)
+print(x.isprintable())
+o = 'hello \n boy'
+print(o.isprintable()) # False
+
+u = '\u03b8\u03b4\u03b7'
+print(u)
+print(u.isprintable())
+print(u.isidentifier())
+
