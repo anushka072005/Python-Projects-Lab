@@ -249,3 +249,69 @@ print(s.partition('s'))
 print(s.rpartition('s'))
 print(s.rpartition('y'))
 print(s.rpartition('e'))
+
+# replace() METHOD (it replace specified substr with another substr in str)
+r_string = 'I love banana , banana is my fav fruit'
+new_string = r_string.replace('banana','apple')
+print(new_string)
+new_string = r_string.replace('banana','cherry',1)
+print(new_string)
+
+r_string = 'a-b-c-d-e'
+result = r_string.replace('-',',')
+print(result)
+result = r_string.replace('-',',',2)
+print(result)
+# WHEN SPECIFY SUBSTR NOT AVAILABLE IN STR THEN IT RETURNS ORIGINAL STR
+new_string = r_string.replace('n','f')
+print(new_string)
+
+r_string = 'anushka@gmail.com'
+result = r_string.replace('gmail' , 'patkar')
+print(result)
+
+# join() METHOD(it used to combine elements of an iterable(list,tuple,string etc))
+r = ['p','y','t','h','o','n']
+result = ''.join(r)
+print(result)
+
+a = 'abc'
+b = 'xyz'
+r = a.join(b)  # calling a method and joining upon b
+print(r)
+
+c = '/'
+r1 = c.join(a)
+print(r1)
+
+l1 = ['john', 'hanuman', 'ramji']
+s = '-'
+print(s.join(l1))
+s = ','
+print(s.join(l1)) # return as single str
+
+# split() METHOD (it used to divied string into piece multiple time but it not return separator in o/p)
+s = 'john hanuman ramji'
+print(s.split())
+
+l1 = 'john , hanuman , ramji'
+print(l1.split(','))
+
+s = 'john hanuman ramji'
+print(s.split('n')) # Not return separater ('n')
+
+s = 'ram-sita-hanuman-dev-sakti'
+print(s.split())
+print(s.split('-'))
+print(s.split('-',3))
+
+# rsplit() METHOD (it similer to split but it start from right side)
+s = 'ram-sita-hanuman-dev-sakti'
+print(s.rsplit('-'))
+print(s.rsplit('-',3))
+
+# splitlines() METHOD (it works only for newline )
+new_line = 'aaa\nbbb\tccc\rddd\ffff'
+print(new_line.splitlines())
+print(new_line.splitlines(keepends = True))
+print(new_line.split())
