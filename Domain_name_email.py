@@ -1,5 +1,5 @@
-# 5) DOMAIN NAME FROM EMAIL.
+# 5) FIND USER-ID AND DOMAIN NAME FROM EMAIL.
 email = input('Enter your email : ')
 check = email.index('@')
-print(email[0] )
-print(check)
+print("User ID is :",email[0:check] )
+print("Domain name is :",email[check+1:len(email)] )
