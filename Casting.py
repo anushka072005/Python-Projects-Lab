@@ -25,7 +25,3 @@ print(c+d)
 
 e = 1 
 print(type(e))
-
-
-                      
-
