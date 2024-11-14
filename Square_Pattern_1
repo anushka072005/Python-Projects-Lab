@@ -6,4 +6,4 @@ for i in range(0,5):
 
 # DRAW PATTERNS USING SINGLE LOOP
 for i in range(0,5):
-    print('* ' * 5)
+    print('* ' * 5)\
