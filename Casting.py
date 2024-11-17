@@ -24,4 +24,4 @@ d = 8
 print(c+d)
 
 e = 1 
-print(type(e))
+print(type(e)) 
