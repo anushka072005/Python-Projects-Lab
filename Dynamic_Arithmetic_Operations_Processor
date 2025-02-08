@@ -3,7 +3,7 @@ while True:
     x = int(input("Enter X : "))
     y = int(input("Enter Y : "))
 
-    while True:
+    while True: 
         a = x+y
         s = x-y
         m = x*y
