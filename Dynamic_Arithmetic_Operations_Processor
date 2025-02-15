@@ -10,7 +10,7 @@ while True:
         d = x/y  # float_div
         D = x//y # floor_div 
         M = x%y  # modulus
-        p = x**y # Square_power 
+        p = x**y # Square_power  
         
         operation = input("which operation do you want to perform (add = a, sub = s, mul = m, float_div = d, floor_div = D, modulus = M, Square_power = p : ") 
         
