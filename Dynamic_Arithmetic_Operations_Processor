@@ -7,7 +7,7 @@ while True:
         a = x+y
         s = x-y
         m = x*y 
-        d = x/y  # float_div
+        d = x/y  # float_div 
         D = x//y # floor_div 
         M = x%y  # modulus
         p = x**y # Square_power  
