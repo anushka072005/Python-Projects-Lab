@@ -1,5 +1,5 @@
 # "Dynamic Arithmetic Operations Processor" 
-while True:
+while True: 
     x = int(input("Enter X : ")) 
     y = int(input("Enter Y : "))  
  
