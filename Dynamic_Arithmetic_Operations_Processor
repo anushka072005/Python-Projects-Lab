@@ -1,7 +1,7 @@
 # "Dynamic Arithmetic Operations Processor" 
 while True:
     x = int(input("Enter X : ")) 
-    y = int(input("Enter Y : ")) 
+    y = int(input("Enter Y : "))  
 
     while True:  
         a = x+y
