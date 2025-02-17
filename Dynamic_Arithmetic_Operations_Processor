@@ -4,7 +4,7 @@ while True:
     y = int(input("Enter Y : "))  
   
     while True:  
-        a = x+y
+        a = x+y 
         s = x-y
         m = x*y 
         d = x/y  # float_div 
