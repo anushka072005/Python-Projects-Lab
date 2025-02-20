@@ -12,6 +12,6 @@ for i in range(0,5):
             print('*', end=" ")
     print('') 
 
-# DRAW PATTERNS USING SINGLE LOOP
+# DRAW PATTERNS USING SINGLE LOOP 
 for i in range(1,6):
     print('* ' * I)
