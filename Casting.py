@@ -15,7 +15,7 @@ print("The sum is : ",sum)
 
 
 #Implicit typecasing
-a = 1 
+a = 1  
 b = 1.2
 print(a+b)
 
