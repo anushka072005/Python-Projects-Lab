@@ -1,6 +1,6 @@
 # 1) CALCULATING SALARY 
        
-working_hourse = list(map(int, input("Enter weekly hourse : ").split(" ")))  
+working_hourse = list(map(int, input("Enter weekly hourse : ").split(" ")))   
 salary_wages = input("Enter wages : ")
 sum = 0
 
