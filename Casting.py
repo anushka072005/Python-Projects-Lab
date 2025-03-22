@@ -9,7 +9,7 @@ print(int(a)+int(b))
 string = "1"
 number = 7   
 string = int(string)  
-sum = string + number
+sum = string + number 
 print("The sum is : ",sum)
  
  
