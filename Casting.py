@@ -7,7 +7,7 @@ print(int(a)+int(b))
 
 #Explicit typecasing
 string = "1"
-number = 7 
+number = 7  
 string = int(string) 
 sum = string + number
 print("The sum is : ",sum)
