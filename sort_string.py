@@ -5,3 +5,4 @@ result = sorted(srt1)
 new = ''.join(result)
 print(result)
 print(new )
+ 
