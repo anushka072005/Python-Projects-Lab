@@ -5,7 +5,7 @@ n = ""
 for i in lst:
     n += str(i)
 
-n = int(n)
+n = int(n) 
 print(n)
 
 print(type(n))
