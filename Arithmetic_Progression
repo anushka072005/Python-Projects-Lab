@@ -5,5 +5,5 @@ d = int(input("Enter difference between number : "))
 n = int(input("Enter number of terms : "))  
  
 for t in range(a, a+n*d ,d):
-    print(t) 
+    print(t)  
  
