@@ -2,7 +2,7 @@ a = int(input("Enter the num : "))
 if a < 0:
     print("It is Negative!")
 elif a > 0:
-    print("It is Positive!")
+    print("It is Positive!") 
     if a <= 10:
         print("It is Between 0-10!")
     elif a <= 100:
