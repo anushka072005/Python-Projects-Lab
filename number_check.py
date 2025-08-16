@@ -1,6 +1,6 @@
 a = int(input("Enter the num : "))
 if a < 0:
-    print("It is Negative!")
+    print("It is Negative!") 
 elif a > 0:
     print("It is Positive!") 
     if a <= 10:
