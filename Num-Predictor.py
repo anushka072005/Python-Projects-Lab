@@ -23,3 +23,11 @@ while attempts < max_attempts:
     # Give a hint if the guess is close
     if abs(guess - n) <= 2 and guess != n:
         print("Hint: You're very close!")
+
+    # Check if attempts are over
+    if attempts == max_attempts:
+        print(f"Sorry! You've used all your attempts. The number was {n}.")
+        break
+
+    print(f"Attempts remaining: {max_attempts - attempts}")
+    
