@@ -7,4 +7,4 @@ for i in range(1,n+1):
 if count == 2 : 
     print("prime Number") 
 else:
-    print("Not prime Number")    
+    print("Not prime Number")     
