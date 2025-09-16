@@ -1,6 +1,6 @@
 # 3) CHECK IF THE PASSWORD AND CONFIRM PASSWORD ARE SAME
 password = input('Enter password : ')   
-confirm_password = input('Enter confirm password : ')
+confirm_password = input('Enter confirm password : ') 
  
 if password == confirm_password: 
     print('Yes, they are matching') 
