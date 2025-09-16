@@ -2,7 +2,7 @@
 password = input('Enter password : ')   
 confirm_password = input('Enter confirm password : ')
  
-if password == confirm_password:
+if password == confirm_password: 
     print('Yes, they are matching') 
  
 else:
