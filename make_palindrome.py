@@ -1,5 +1,5 @@
 
-# 6) CONVERT STRING TO PALINDROME.
+# 6) CONVERT STRING TO PALINDROME. 
 
 string = input("enter string : ") 
 
