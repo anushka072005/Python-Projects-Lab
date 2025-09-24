@@ -2,7 +2,7 @@
         # Product Name........Price
         # Kathi role............100 
 
-Product_name = input("Enter Product name : ") 
+Product_name = input("Enter Product name : ")  
 Price = input('Enter Price : ')
  
 total_len = len(Product_name) + len(Price)
