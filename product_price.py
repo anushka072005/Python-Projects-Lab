@@ -4,7 +4,7 @@
 
 Product_name = input("Enter Product name : ") 
 Price = input('Enter Price : ')
-
+ 
 total_len = len(Product_name) + len(Price)
 left_space = 25 - total_len
 dots = '.' * left_space
