@@ -2,7 +2,7 @@
     
 srt1 = 'hgibfbowdvfh'  
 result = sorted(srt1)  
-new = ''.join(result)  
+new = ''.join(result)   
 print(result)
 print(new )
   
