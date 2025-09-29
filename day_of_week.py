@@ -1,6 +1,6 @@
 day = int(input('Enter day number : '))
 
-match day: 
+match day:  
   
     case 1: 
         print('Sunday')
