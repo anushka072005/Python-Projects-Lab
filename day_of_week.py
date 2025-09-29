@@ -1,5 +1,5 @@
 day = int(input('Enter day number : ')) 
- 
+  
 match day:   
   
     case 1: 
