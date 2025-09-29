@@ -1,4 +1,4 @@
-day = int(input('Enter day number : '))  
+day = int(input('Enter day number : '))   
   
 match day:   
   
