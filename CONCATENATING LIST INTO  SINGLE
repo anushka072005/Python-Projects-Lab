@@ -4,7 +4,7 @@ lst = [1,2,3,4,5]
 n = ""  
 for i in lst:
     n += str(i) 
- 
+  
 n = int(n)  
 print(n)
 
