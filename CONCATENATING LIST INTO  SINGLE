@@ -1,4 +1,4 @@
-# 3) CONCATENATING LIST INTO  SINGLE
+# 3) CONCATENATING LIST INTO  SINGLE 
 # 1st way TC O(N^2)    
 lst = [1,2,3,4,5]  
 n = "" 
