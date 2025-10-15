@@ -1,4 +1,4 @@
-# CHECK IF A NUMBER IS PRIME OR NOT.
+# CHECK IF A NUMBER IS PRIME OR NOT. 
 n = int(input("enter num : "))   
 count = 0    
 for i in range(1,n+1):
