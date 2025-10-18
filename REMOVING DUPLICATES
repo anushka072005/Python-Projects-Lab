@@ -1,7 +1,7 @@
 # 2) REMOVING DUPLICATES
    
 #  1ST WAY TO SOLVE
- list1 = [1, 2, 3, 4, 2, 3, 5, 6, 7, 8, 8] 
+ list1 = [1, 2, 3, 4, 2, 3, 5, 6, 7, 8, 8]  
  new_list = list(set([x for x in list1 if list1.count(x) > 1 ]))
  
 
