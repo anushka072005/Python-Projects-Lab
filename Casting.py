@@ -10,7 +10,7 @@ string = "1"
 number = 7   
 string = int(string)  
 sum = string + number 
-print("The sum is : ",sum)
+print("The sum is : ",sum) 
  
  
 
