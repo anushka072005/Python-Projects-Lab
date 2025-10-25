@@ -1,4 +1,4 @@
-    # Typecasting in Python
+# Typecasting in Python
 #Basic type casting
 a = '8'
 b = '6'
