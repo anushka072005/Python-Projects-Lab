@@ -1,5 +1,5 @@
  # 2) DISPLAY DATA IN GIVEN FORMAT (25 LETTERS)
-        # Product Name........Price
+        # Product Name........Price 
         # Kathi role............100 
 
 Product_name = input("Enter Product name : ")  
