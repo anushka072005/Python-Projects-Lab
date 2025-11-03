@@ -12,6 +12,6 @@ Get hints, track attempts, and see if you can beat the challenge!"
 "Step into the hot seat and play your own KBC!  
 Answer exciting questions, earn rewards, and see if you can become a champion!"
 
-3.[SecretCoder](./SecretCoder.py)
+3. [SecretCoder](./SecretCoder.py)
 "Experience simple encryption and decryption in Python.
 Turn words into codes and bring them back again!"
