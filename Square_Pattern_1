@@ -1,5 +1,5 @@
 # DRAW SQUARE PATTERN (5x5) USING NESTED FOR LOOP 
-for i in range(0,5): 
+for i in range(0,5):  
     for j in range(0,5): 
         print('*', end=" ")  
     print(' ')   
