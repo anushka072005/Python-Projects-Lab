@@ -1,4 +1,4 @@
- # 2) DISPLAY DATA IN GIVEN FORMAT (25 LETTERS) 
+ # 2) DISPLAY DATA IN GIVEN FORMAT (25 LETTERS)  
         # Product Name........Price 
         # Kathi role............100     
  
