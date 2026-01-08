@@ -1,7 +1,6 @@
 import math
 import random
 
-r'''
 print(math.pi)
 print(random.random())
 
@@ -126,11 +125,10 @@ print(chai)
 chai = "Lemon", "Ginger", "Masala", "Mint"
 print("Ginger" in chai)
 print("Orange" in chai)
-'''
 
 
 # List/Array Data Type
-tea_varities = ["Black", "Green", "Oolong", "White"]
+tea_varieties = ["Black", "Green", "Oolong", "White"]
 
 # Indexing
 print(tea_varities)
@@ -149,11 +147,11 @@ print(tea_varities)
 # tea_varities[2:2] = "Mint"
 # print(tea_varities)
 # ['Black', 'Green', 'M', 'i ', 'n', 't', 'Oolong', 'Herbal']
-tea_varities[2:2] = ["Mint"]
+tea_varieties [2:2] = ["Mint"]
 print(tea_varities)
 
 # add/remove using slicing
-tea_varities[1:1] = ["test", "test"]
+tea_varieties [1:1] = ["test", "test"]
 print(tea_varities)
 print(tea_varities[1:3])
 
@@ -162,11 +160,11 @@ print(tea_varities)
 
 # condition/for loop with list
 c = 1
-for tea in tea_varities:
+for tea in tea_varieties:
     print(c, tea)
     c += 1 
 
-if "Mint" in tea_varities:
+if "Mint" in tea_varieties:
     print("Mint tea avilble")
 else:
     print("Not availble")    
@@ -183,7 +181,7 @@ print(tea_varities)
 tea_varities.insert(1, "Ginger")
 print(tea_varities)
 
-# tea_varities_copy and tea_varities has differnt memory reference 
+# tea_varieties_copy and tea_varieties have different memory references 
 tea_varities_copy = tea_varities.copy()
 
 print(tea_varities_copy)
@@ -199,6 +197,5 @@ print(squared_nums)
 cube_nums = [x**3 for x in range(5)]
 print(cube_nums)
 
-
-
 # Dictionary DataType
+
