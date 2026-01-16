@@ -1,6 +1,6 @@
 # Arithmetic_Progression 
    
-a = int(input("Enter initial number : ")) 
+a = int(input("Enter initial number : "))  
 d = int(input("Enter difference between number : "))   
 n = int(input("Enter number of terms : "))       
  
