@@ -2,7 +2,7 @@
         
 working_hourse = list(map(int, input("Enter weekly hourse : ").split(" ")))     
 salary_wages = input("Enter wages : ")
-sum = 0 
+sum = 0  
 
 for i in working_hourse:
     sum += i
