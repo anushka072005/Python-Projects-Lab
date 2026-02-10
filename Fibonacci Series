@@ -4,6 +4,6 @@ b = 1  # second num
 n = int(input("enter number of terms : "))     
 for t in range(n):  
     print(a) 
-    c = a + b  
+    c = a + b   
     a = b 
     b = c
