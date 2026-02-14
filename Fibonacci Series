@@ -1,4 +1,4 @@
-# PRINT N TERMS OF FIBONACCI SERIES.   
+# PRINT N TERMS OF FIBONACCI SERIES.    
 a = 0  # first num    
 b = 1  # second num      
 n = int(input("enter number of terms : "))     
