@@ -1,7 +1,7 @@
 # CODING DECODING GAME
 import random 
 import string
-
+ 
 def CodingFunc(word):
     # CODING
     if len(word) == 1:
