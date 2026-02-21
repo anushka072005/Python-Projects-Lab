@@ -1,5 +1,5 @@
 # CODING DECODING GAME
-import random
+import random 
 import string
 
 def CodingFunc(word):
