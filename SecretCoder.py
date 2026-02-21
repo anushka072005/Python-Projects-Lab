@@ -1,6 +1,6 @@
 # CODING DECODING GAME
 import random 
-import string
+import string 
  
 def CodingFunc(word):
     # CODING
