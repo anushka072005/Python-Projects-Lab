@@ -7,7 +7,7 @@ sum = 0
 for i in working_hourse:
     sum += i
 total_salary = (sum * salary_wages)
-
+ 
 print(total_salary)
 
 working_hourse = [int(x) for x in input("Enter hourse per day in entire week, separated by spaces : ").split()]
