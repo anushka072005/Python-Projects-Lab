@@ -1,4 +1,4 @@
-# 3) CHECK IF THE PASSWORD AND CONFIRM PASSWORD ARE SAME     
+# 3) CHECK IF THE PASSWORD AND CONFIRM PASSWORD ARE SAME      
 password = input('Enter password : ')        
 confirm_password = input('Enter confirm password : ')   
     
