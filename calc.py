@@ -1,5 +1,5 @@
 a = int(input("Enter your first digit: "))  
-b = int(input("Enter your second digit: "))     
+b = int(input("Enter your second digit: "))      
   
 print("\n--- Results ---\n")
 print(f"➕ Addition      : {a} + {b} = {a + b}")
