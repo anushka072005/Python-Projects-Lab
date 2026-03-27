@@ -1,4 +1,4 @@
-a = int(input("Enter your first digit: "))  
+a = int(input("Enter your first digit: ")) 
 b = int(input("Enter your second digit: "))      
   
 print("\n--- Results ---\n")
