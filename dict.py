@@ -1,4 +1,4 @@
-info = {
+info = { 
     'name' : 'sunita',
     'age' : 37,
     'eligible' : True 
