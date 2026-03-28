@@ -1,7 +1,7 @@
 info = { 
     'name' : 'sunita',  
     'age' : 37,
-    'eligible' : True 
+    'eligible' : True  
 }
 # print(info)
 # print(info['name'])
