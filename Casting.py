@@ -1,5 +1,5 @@
 # Typecasting in Python
-#Basic type casting
+#Basic type casting 
 a = '8' 
 b = '6'
 print(int(a)+int(b))
