@@ -1,6 +1,6 @@
 dict1 = { 1 : "ravi",   
           2 : "kuku",        
-          3 : "shivi",   
+          3 : "shivi",    
           4 : "priya",  
         }
 print(dict1)
