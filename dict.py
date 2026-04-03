@@ -1,6 +1,6 @@
 info = {   
     'name' : 'sunita',     
-    'age' : 37,   
+    'age' : 37,    
     'eligible' : True   
 }
 # print(info)
