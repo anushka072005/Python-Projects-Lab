@@ -1,5 +1,5 @@
 info = {   
-    'name' : 'sunita',    
+    'name' : 'sunita',     
     'age' : 37,  
     'eligible' : True  
 }
