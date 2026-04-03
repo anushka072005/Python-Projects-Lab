@@ -3,7 +3,7 @@ info = {
     'age' : 37,    
     'eligible' : True   
 }  
-# print(info)
+# print(info) 
 # print(info['name'])
 # print(info['class']).
 # print(info.get('name')) 
