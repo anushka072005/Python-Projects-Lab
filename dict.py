@@ -6,7 +6,7 @@ info = {
 # print(info)
 # print(info['name'])
 # print(info['class']).
-# print(info.get('name'))
+# print(info.get('name')) 
 # print(info.get('class'))
  
 # for key in info.keys():
