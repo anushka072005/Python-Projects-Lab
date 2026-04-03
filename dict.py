@@ -2,7 +2,7 @@ info = {
     'name' : 'sunita',     
     'age' : 37,    
     'eligible' : True   
-} 
+}  
 # print(info)
 # print(info['name'])
 # print(info['class']).
