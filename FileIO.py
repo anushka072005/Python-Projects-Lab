@@ -3,7 +3,7 @@
 # f = open('myfile.txt', 'rb')
 # f2 = open('myfile2.txt', 'w')
 # print(f)
-# text = f.read()
+# text = f.read() 
 # print(text)
 # f.close()
 
