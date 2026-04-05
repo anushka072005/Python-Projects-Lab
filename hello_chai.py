@@ -1,7 +1,7 @@
 print("chai with code")
  
 def chai(n):
-    print(n) 
+    print(n)  
 
 chai("ginger chai") 
 
