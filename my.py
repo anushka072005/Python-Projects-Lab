@@ -1,7 +1,7 @@
 # comment , Escape char , Parameter 
                              
 print("hello world") 
-print(3)
+print(3) 
 print("Namste Anushka \nhow are you ") #this is used for single line comment (#)  
 
 print(19+37)            #this is used for Arithmetic operation
