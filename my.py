@@ -1,6 +1,6 @@
                         # comment , Escape char , Parameter 
                              
-print("hello world")
+print("hello world") 
 print(3)
 print("Namste Anushka \nhow are you ") #this is used for single line comment (#) 
 
