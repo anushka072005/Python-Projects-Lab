@@ -6,7 +6,7 @@
 # text = f.read() 
 # print(text)
 # f.close()
-
+ 
 # WRITING A FILE
 # f = open('myfile2.txt', 'w')
 # text = f.write("Hello World!")
