@@ -4,7 +4,7 @@ info = {
     'eligible' : True     
 }  
 # print(info) 
-# print(info['name'])
+# print(info['name']) 
 # print(info['class']).
 # print(info.get('name')) 
 # print(info.get('class'))
