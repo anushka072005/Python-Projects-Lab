@@ -4,7 +4,7 @@ import shutil
 # check if dir already exist 
 # if(not os.path.exists("data")):
 #     os.mkdir("data")
-
+ 
 # create 100 dir inside data dir
 # for i in range(0,100)    :
 #     os.mkdir(f"data/Day{i+1}") 
