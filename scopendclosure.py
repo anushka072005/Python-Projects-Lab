@@ -1,7 +1,7 @@
 # username = "chaiorcode"    # global var
 
 # def func():   
-#     # global username
+#     # global username 
 #     # username = "chai"  #local var 
 #     print(username) 
 #     # global username
