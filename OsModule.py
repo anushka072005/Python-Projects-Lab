@@ -7,7 +7,7 @@ import shutil
 
 # create 100 dir inside data dir
 # for i in range(0,100)    :
-#     os.mkdir(f"data/Day{i+1}")
+#     os.mkdir(f"data/Day{i+1}") 
 
 # rename dir name
 # for i in range(0,100)    :
