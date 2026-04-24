@@ -2,7 +2,7 @@
 '''
 lottry_num = int(input("Enter Number : "))  
 match lottry_num : 
-    case 13: 
+    case 13:  
         print("Num is 13 you can get 300000 Congratulation !")  
     case 19 :
         print("Num is 19 you can get 30000 Congratulation !")
