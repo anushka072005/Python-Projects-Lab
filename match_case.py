@@ -7,7 +7,7 @@ match lottry_num :
     case 19 : 
         print("Num is 19 you can get 30000 Congratulation !")
     case 7 :
-        print("Num is 7 you can get 3000 Congratulation !")   
+        print("Num is 7 you can get 3000 Congratulation !")    
     case _:
         print("Sorry",lottry_num, "Is Not a Lottry Ticket Be Try Thankyou !")
      '''
