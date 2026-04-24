@@ -1,7 +1,7 @@
 # MATCH CASE IS THE TYPE OF SWICH CASE
 '''
 lottry_num = int(input("Enter Number : "))
-match lottry_num :
+match lottry_num : 
     case 13:
         print("Num is 13 you can get 300000 Congratulation !")
     case 19 :
