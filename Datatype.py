@@ -1,6 +1,6 @@
 # Numaric Data type
 # INT  
-a = 32  
+a = 32   
 print(type(a))
 print(a)
 b = 2837494982048028   
