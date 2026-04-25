@@ -6,7 +6,7 @@ print(a)
 b = 2837494982048028   
 print(b)
 print(a.__sizeof__())
-print(b.__sizeof__())
+print(b.__sizeof__()) 
 
 # Float
 x = 1.3
