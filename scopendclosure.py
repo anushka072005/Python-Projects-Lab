@@ -1,6 +1,6 @@
 # username = "chaiorcode"    # global var
 
-# def func():   
+# def func():    
 #     # global username 
 #     # username = "chai"  #local var 
 #     print(username) 
