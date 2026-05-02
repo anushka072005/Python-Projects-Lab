@@ -4,7 +4,7 @@ dict1 = { 1 : "ravi",
           4 : "priya",  
         } 
 print(dict1) 
- 
+  
 print(dict1.keys())   
 print(dict1.values()) 
  
