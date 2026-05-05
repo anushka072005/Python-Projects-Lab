@@ -8,7 +8,7 @@ info = {
 # print(info['class']).
 # print(info.get('name')) 
 # print(info.get('class'))
- 
+  
 # for key in info.keys():
 #     print(f"The value corresponding to the key {key} is {info[key]}")
 
