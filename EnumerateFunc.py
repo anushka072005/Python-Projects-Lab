@@ -1,5 +1,5 @@
 marks = [2, 12, 3, 99, 14, 53, 63]
-for mark in marks:
+for mark in marks: 
     print(mark) 
     if(mark == 3):
         print("Great Student")
