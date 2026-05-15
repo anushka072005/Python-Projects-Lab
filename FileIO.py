@@ -4,7 +4,7 @@
 # f2 = open('myfile2.txt', 'w')         
 # print(f)     
 # text = f.read() 
-# print(text)
+# print(text) 
 # f.close()
  
 # WRITING A FILE
