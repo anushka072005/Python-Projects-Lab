@@ -3,7 +3,7 @@
 a = '8'         
 b = '6'       
 print(int(a)+int(b))   
-  
+   
  
 #Explicit typecasing  
 string = "1"  
