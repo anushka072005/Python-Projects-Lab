@@ -5,7 +5,7 @@ b = '6'
 print(int(a)+int(b))   
   
 
-#Explicit typecasing
+#Explicit typecasing 
 string = "1"  
 number = 7   
 string = int(string)  
