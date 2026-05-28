@@ -1,5 +1,5 @@
 def Restaurant():
-    items = []
+    items = [] 
     for i in range(4):
         item = input("Enter item name : ") 
         price = input("Enter item price : ")
