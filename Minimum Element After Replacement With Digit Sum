@@ -1,6 +1,6 @@
 class Solution:
     def minElement(self, nums: List[int]) -> int: 
-        min = float('inf')
+        min = float('inf') 
         for i in range(len(nums)): 
             num = nums[i]
             digitSum = 0
