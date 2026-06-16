@@ -5,7 +5,7 @@
 # else: 
 #     print(a)     
 
-
+ 
 try:
     a = input("Enter any Value between 5 and 9 : ")
     if (a == 'quit'):
