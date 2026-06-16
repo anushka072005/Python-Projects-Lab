@@ -1,6 +1,6 @@
 # a = int(input("Enter any Value between 5 and 9 : "))
 
-# if(a<5 or a>9): 
+# if(a<5 or a>9): m
 #     raise ValueError("Value Should be between 5 and 9")
 # else:
 #     print(a)    
