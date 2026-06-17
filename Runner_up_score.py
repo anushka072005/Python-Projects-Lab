@@ -5,4 +5,4 @@ arr = set(map(int, input().split()))
 
 a = max(arr)
 arr.remove(a)
-print(max(arr)) 
+print(max(arr))  
