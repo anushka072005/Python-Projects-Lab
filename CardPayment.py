@@ -4,5 +4,3 @@ def CardPayment():
     print(f'{'x' * 4} {'x' * 4} {'x' * 4} {output}')
 
 CardPayment()    
-
- 
