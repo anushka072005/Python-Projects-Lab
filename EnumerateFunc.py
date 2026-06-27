@@ -3,7 +3,7 @@ for mark in marks:
     print(mark)   
     if(mark == 3):       
         print("Great Student")     
- 
+  
 # for index, mark in enumerate(marks): 
 #     print(index, mark)
 #     if(index == 3):
