@@ -6,7 +6,7 @@ for mark in marks:
     
 # for index, mark in enumerate(marks):  
 #     print(index, mark)  
-#     if(index == 3): 
+#     if(index == 3):  
         # print("Well Done roll number 3") 
  
 # You can give argument this enumerate(start = _ //i.e. 1,2 etc) func
