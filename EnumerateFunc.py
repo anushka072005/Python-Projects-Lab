@@ -5,7 +5,7 @@ for mark in marks:
         print("Great Student")       
     
 # for index, mark in enumerate(marks):  
-#     print(index, mark) 
+#     print(index, mark)  
 #     if(index == 3): 
         # print("Well Done roll number 3") 
  
