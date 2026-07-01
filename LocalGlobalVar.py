@@ -10,7 +10,7 @@
 # print(f"the global x is {x}")
 # hello()
 # x = 5
-# print(f"the global x is {x}")
+# print(f"the global x is {x}") 
 # # print(y)  # this will cause an error because y is a local variable and is not accessible outside of the function
 
 x = 10
