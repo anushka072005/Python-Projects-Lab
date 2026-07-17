@@ -11,7 +11,7 @@
 # for i in range(0,5): 
 #     for j in range(0,5): 
 #         print(i, j, end= " ")  # end= using for space  
-#     print(" ")  # for next line 
+#     print(" ")  # for next line  
 
 
 # PRINT i AND j WITH BRACKETS
