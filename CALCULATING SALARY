@@ -6,7 +6,7 @@ sum = 0
  
 for i in working_hourse: 
     sum += i
-total_salary = (sum * salary_wages)
+total_salary = (sum * salary_wages) 
  
 print(total_salary)
 
